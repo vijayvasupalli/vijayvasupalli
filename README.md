@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm VIJAY Vasupalli</h1>
+<h1 align="center">Hey Dude 👋, I'm VIJAY Vasupalli 💫</h1>
 <h3 align="center">B.Tech CSE | MERN Stack Developer | DSA Learner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vijayvasupalli&label=Profile%20views&color=0e75b6&style=flat" alt="vijayvasupalli" /> </p>
