@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vijayvasupalli&label=Profile%20views&color=0e75b6&style=flat" alt="vijayvasupalli" /> </p>
 
-- 🔭 I’m currently working on **MERN Stack Projects(Full-Stack Web Apps)**
+- 🔍 I’m currently working on **MERN Stack Projects(Full-Stack Web Apps)**
 
 - 🌱 I’m currently learning **Express,MongoDB, Data Structures & Algorithms , Problem Solving**
 
-- 👯 I’m looking to collaborate on **Open Source Web Development Projects**
+- 🤝 I’m looking to collaborate on **Open Source Web Development Projects**
 
-- 📫 How to reach me **vijaymanoharvasupalli07@gmail.com**
+- 📥 How to reach me **vijaymanoharvasupalli07@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
